@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a cybersecurity student passionate about malware analy
 
 ### 📚 About Me
 
-- 🎓 **Education**: Studying Cybersecurity at University of Algiers
+- 🎓 **Education**: Studying Cybersecurity at USTHB University of Technology Houary Boumedi
 - 💻 **Location**: Bab Ezzouar, Algiers, DZ
 - 🌍 **Languages**: Arabic • French • English
 - 🔐 **Interests**: Malware analysis • CTF challenges • Binary exploitation • OWASP security principles
@@ -53,9 +53,10 @@ Welcome to my GitHub! I'm a cybersecurity student passionate about malware analy
 
 ### 📞 Connect With Me
 
-- **LinkedIn**: [mohamedben](https://linkedin.com/in/mohamedben)
-- **YouTube**: [@MOHAMEDBEN999](https://youtube.com/@MOHAMEDBEN999)
-- **Email**: [Contact me](mailto:your-email@example.com)
+- **LinkedIn**: [moha-benab](https://www.linkedin.com/in/moha-benab-8553b433b/)
+- **YouTube**: [@mohabenab9924](https://www.youtube.com/@mohabenab9924)
+- **Discord**: [mjr8e](https://discord.com/users/mjr8e)
+- **Email**: [moha.benabdelghani@gmail.com](mailto:moha.benabdelghani@gmail.com)
 
 ---
 
