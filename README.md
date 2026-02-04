@@ -183,7 +183,6 @@
 ## 🏆 2026 Profile Highlights
 
 ```
-✅ Modern GitHub Profile (2026)
 ✅ Security Specialist & Learner
 ✅ CTF Competitor
 ✅ Content Creator (YouTube)
