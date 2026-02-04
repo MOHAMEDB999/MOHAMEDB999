@@ -1,159 +1,203 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋,+I'm+Mohamed;Cybersecurity+Enthusiast;Malware+Analyst;CTF+Competitor" alt="Typing animation" />
-</h1>
+<!-- 2026 Premium GitHub Profile -->
+<div align="center">
+  <a href="https://github.com/MOHAMEDB999">
+    <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=40&center=true&vCenter=true&width=650&height=80&duration=4000&lines=Hi+👋,+I'm+Mohamed;🛡️+Cybersecurity+Specialist;🔍+Malware+Analyst;⚔️+CTF+Enthusiast;🚀+Security+Innovator" alt="Typing animation" />
+  </a>
+</div>
 
-<h3 align="center">🛡️ Passionate about Security | Reverse Engineering | CTF Challenges | Binary Exploitation</h3>
+<h3 align="center">🔐 Building Secure Systems | Analyzing Threats | Breaking CTF Challenges</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/moha-benab-8553b433b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.youtube.com/@mohabenab9924" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="https://discord.com/users/mjr8e" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="mailto:moha.benabdelghani@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/moha-benab-8553b433b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.youtube.com/@mohabenab9924" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://discord.com/users/mjr8e" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="mailto:moha.benabdelghani@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=MOHAMEDB999&style=flat&color=0891b2" alt="Profile Views" />
 </p>
 
----
-
-## 📊 Profile Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MOHAMEDB999&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MOHAMEDB999&theme=dark&hide_border=true" alt="GitHub Streak" width="48%" />
-</div>
-
----
-
-## 👨‍💼 About Me
-
-<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e21cc028cb2c.gif" alt="Coding animation" />
-
-- 🎓 **Cybersecurity Student** at USTHB (University of Science and Technology Houari Boumedied)
-- 🔍 **Focus Areas**: Malware Analysis, Reverse Engineering, Network Security, Digital Forensics
-- 🏆 **Passion**: CTF Competitions, Binary Exploitation, OWASP Security Principles
-- 💻 **Location**: Bab Ezzouar, Algiers 🇩🇿
-- 🌍 **Languages**: Arabic 🇩🇿 | French 🇫🇷 | English 🇬🇧
-- 📺 **Content Creator**: Technical security content on YouTube
-- 🎯 **Current Goal**: Build expertise in advanced malware analysis & threat intelligence
+<details open>
+  <summary><b>⚡ 2026 Profile Stats</b></summary>
+  <br>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=MOHAMEDB999&theme=transparent&show_icons=true&hide_border=true&count_private=true&rank_icon=github&bg_color=0d1117&text_color=c9d1d9" alt="GitHub Stats" />
+  </div>
+  <div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MOHAMEDB999&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  </div>
+  <div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MOHAMEDB999&theme=github-dark&hide_border=true&area=true&custom_title=GitHub%20Activity%20Graph" alt="GitHub Activity Graph" />
+  </div>
+</details>
 
 ---
 
-## 🛠️ Tech Stack & Skills
+<details open>
+  <summary><b>👨‍💻 About Me</b></summary>
+  <br>
+  
+  ```yaml
+  Identity:
+    Name: Mohamed Ben Abdelghani
+    GitHub: @MOHAMEDB999
+    
+  Education:
+    University: USTHB (University of Science and Technology Houari Boumedied)
+    Field: Cybersecurity & Information Security
+    Status: Active Student & Professional Developer
+    
+  Location: Bab Ezzouar, Algiers DZ
+  Languages: Arabic | French | English
+  
+  Specialization:
+    - Malware Analysis & Reverse Engineering
+    - Application Security & Secure Coding
+    - Network Security Fundamentals
+    - Binary Exploitation & PWN
+    - CTF Competitions
+    - Digital Forensics & Incident Response
+  ```
+  
+</details>
 
-### Languages & Programming
+---
+
+<details open>
+  <summary><b>🛠️ Modern Tech Stack (2026)</b></summary>
+  <br>
+  
+  ### Programming Languages
+  ```
+  Python       ████████████████░░ 85%  [Security Development]
+  C/C++        ███████████░░░░░░░░ 60%  [Systems Programming]
+  Bash/Shell   █████████████░░░░░░ 70%  [Automation & Scripting]
+  Go           ████████░░░░░░░░░░░ 45%  [Cloud Security Tools]
+  ```
+  
+  ### Security Expertise
+  <div align="center">
+    <img src="https://img.shields.io/badge/Malware%20Analysis-Critical-red?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Reverse%20Engineering-Advanced-orange?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Network%20Security-Intermediate-yellow?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Binary%20Exploitation-Advanced-brightgreen?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Forensics-Intermediate-green?style=for-the-badge" />
+  </div>
+  
+  ### Professional Tools
+  <div align="center">
+    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark" />
+    <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=portswigger" />
+    <img src="https://img.shields.io/badge/Metasploit-EF3B39?style=flat-square&logo=metasploit" />
+    <img src="https://img.shields.io/badge/IDA%20Pro-4B0082?style=flat-square" />
+    <img src="https://img.shields.io/badge/Ghidra-009FDA?style=flat-square" />
+    <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux" />
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git" />
+  </div>
+  
+</details>
+
+---
+
+<details open>
+  <summary><b>🎯 Featured Projects</b></summary>
+  <br>
+  
+  | Project | Description | Stars |
+  |---------|-------------|-------|
+  | **[Information-Data-Security](https://github.com/MOHAMEDB999/Information-Data-Security)** | Security fundamentals & encryption exercises | ⭐ |
+  | **[AP-Exercices](https://github.com/MOHAMEDB999/AP-Exercices)** | Advanced Python algorithms & data structures | ⭐ |
+  
+</details>
+
+---
+
+<details open>
+  <summary><b>📚 Learning & Growth (2026)</b></summary>
+  <br>
+  
+  ### Currently Mastering
+  - 🔬 Advanced Malware Analysis Techniques
+  - 🕸️ OWASP Top 10 Web Security
+  - 🔧 Reverse Engineering & Binary Analysis
+  - 🐧 Linux Kernel Exploitation
+  - 🔐 Applied Cryptography
+  - 🤖 AI in Cybersecurity
+  - 📡 Cloud Security & Zero-Trust
+  
+</details>
+
+---
+
+<details open>
+  <summary><b>📊 Developer Metrics</b></summary>
+  <br>
+  
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHAMEDB999&layout=compact&theme=dark" alt="Languages" />
+  </div>
+  
+  ### Stats
+  - 🔗 9 Repositories
+  - ⭐ 4 Starred Projects
+  - 👥 1 Follower | 7 Following
+  - 📚 Active Learner
+  
+</details>
+
+---
+
+<details open>
+  <summary><b>🌐 Connect & Collaborate</b></summary>
+  <br>
+  
+  <div align="center">
+    <a href="https://www.linkedin.com/in/moha-benab-8553b433b/">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" />
+    </a>
+    <a href="https://www.youtube.com/@mohabenab9924">
+      <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge" />
+    </a>
+    <a href="https://discord.com/users/mjr8e">
+      <img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge" />
+    </a>
+    <a href="mailto:moha.benabdelghani@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge" />
+    </a>
+  </div>
+  
+  Open to: Collaboration | CTF Partnerships | Knowledge Sharing | Opportunities
+  
+</details>
+
+---
+
+## 🏆 2026 Profile Highlights
+
 ```
-🐍 Python      ████████░░ 80%
-🔴 C           ██████░░░░ 60%
-🔷 Bash        ███████░░░ 70%
-```
-
-### Security Domains
-- 🔐 **Information Security & Data Protection**
-- 🌐 **Network Security Fundamentals & Architecture**
-- 🛡️ **Secure Coding Practices**
-- 🖥️ **System Administration & Hardening (Linux/Windows)**
-- 🔎 **Digital Forensics & Incident Response Basics**
-- 📦 **Malware Analysis & Reverse Engineering**
-- ⚔️ **Binary Exploitation & PWN**
-
-### Tools & Platforms
-<div align="center">
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-EF3B39?style=flat-square&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-</div>
-
----
-
-## 📚 Currently Learning
-
-- 🔬 Advanced Malware Analysis Techniques
-- 🕸️ Web Application Security (OWASP Top 10)
-- 🔧 Reverse Engineering & Binary Analysis
-- 🐧 Linux Kernel Security & Exploitation
-- 🔐 Cryptography Implementation & Analysis
-- 🎯 Advanced CTF Problem-Solving Techniques
-
----
-
-## 🎯 Featured Projects
-
-### 🔗 [Information-Data-Security](https://github.com/MOHAMEDB999/Information-Data-Security)
-*Security fundamentals exercises covering encryption, hashing, access control, and Python security scripts*
-- 🔐 Cryptographic implementations
-- 🔑 Access control mechanisms
-- 📊 Hash algorithm analysis
-
-### 🔗 [AP-Exercices](https://github.com/MOHAMEDB999/AP-Exercices)
-*Programming fundamentals and algorithmic problem-solving with Python*
-- 💡 Algorithm optimization
-- 🏗️ Data structure implementations
-- 📈 Problem-solving techniques
-
----
-
-## 💡 What I'm Working On
-
-```
-⚡ Developing malware analysis tools and scripts
-🎬 Creating technical security content for YouTube
-🔍 Contributing to open-source security projects
-📖 Documenting CTF writeups and exploitation techniques
-```
-
----
-
-## 📞 Let's Connect
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/moha-benab-8553b433b/">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.youtube.com/@mohabenab9924">
-    <img src="https://img.shields.io/badge/Subscribe%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://discord.com/users/mjr8e">
-    <img src="https://img.shields.io/badge/Add%20on%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="mailto:moha.benabdelghani@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
-
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MOHAMEDB999&theme=dark-dimmed&hide_border=true" alt="GitHub Activity Graph" />
-</div>
-
----
-
-## 🏆 Achievements & Goals
-
-```
-✅ Active Cybersecurity Learner
-✅ CTF Participant & Solver
+✅ Modern GitHub Profile (2026)
+✅ Security Specialist & Learner
+✅ CTF Competitor
 ✅ Content Creator (YouTube)
-📍 Building professional security expertise
-📍 Contributing to open-source projects
-📍 Developing advanced malware analysis skills
+📍 Building advanced security expertise
+📍 Contributing to open-source
+📍 Pursuing certifications
 ```
 
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa500-3f3a-4ac1-b888-cbaf73d93ec3.gif" width="500" />
-</div>
-
 <p align="center">
-  <i>"Security is not a product, but a process" - Bruce Schneier</i>
+  <i>"Security is not about preventing every attack. It's about being prepared for the ones you don't expect."</i>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MOHAMEDB999&style=flat-square&color=0891b2" alt="Profile Views" />
+  Last Updated: February 2026 | Actively Maintained 🔗
 </p>
