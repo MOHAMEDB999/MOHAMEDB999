@@ -185,7 +185,6 @@
 ```
 ✅ Security Specialist & Learner
 ✅ CTF Competitor
-✅ Content Creator (YouTube)
 📍 Building advanced security expertise
 📍 Contributing to open-source
 📍 Pursuing certifications
