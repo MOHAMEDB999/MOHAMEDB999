@@ -45,7 +45,7 @@
   
   ```yaml
   Identity:
-    Name: Mohamed Ben Abdelghani
+    Name: Mohamed Benabdelghani
     GitHub: @MOHAMEDB999
     
   Education:
